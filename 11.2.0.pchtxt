@@ -1,0 +1,25 @@
+@nsobid-6830B3A12406CB4716FEC5ADDC35D3E2DC92D212
+# Spl 3 11.2.0
+
+// 		!! PLEASE READ !!
+//
+// These patches are NOT SAFE for online use.
+// Only use them in emuMMC and keep it offline, or you may get BANNED.
+// Never boot your game with any of them enabled on sysMMC.
+// If you are playing over LDN or LAN, 
+// make sure the other consoles are also using an isolated emuMMC.
+//
+// Have fun ! :3
+
+@flag offset_shift 0x100
+
+// Infinite Ink [Manjirowo desu!!!]
+@disabled
+02887A18 20008052C0035FD6
+
+// Bomb Rapidfire [Lumn]
+@disabled
+028BDEDC C0035FD6
+0289F00C 1F2003D5
+
+
