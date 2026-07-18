@@ -1,5 +1,5 @@
 **I'm doing this to piss off the weird Splatoon 3 hackers who refuse to release their cheats.**\
-**why whould you hide them for people that are just searching to have fun?**
+**why would you hide them for people that are just searching to have fun?**
 
 > [!IMPORTANT]\
 > These patches are **NOT SAFE** to use online and may get you **BANNED**.\
