@@ -1,4 +1,4 @@
-**I'm doing this to piss off the weird Splatoon 3 hackers who refuse to release their cheats.**\
+**We're doing this to piss off the weird Splatoon 3 hackers who refuse to release their cheats.**\
 **why would you hide them for people that are just searching to have fun?**
 
 > [!IMPORTANT]\
