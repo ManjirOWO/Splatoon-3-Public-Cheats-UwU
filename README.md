@@ -8,11 +8,11 @@
 ## Contributing
 
 If you'd like to contribute, feel free to open a **pull request**.\
-Please make sure your patches work properly and include the **author's name**.
+Make sure your patches work properly and include the **author's name**.
 
 ## Usage
 
-These patches can be used with [Flexlion](https://gamebanana.com/wips/70362) by placing the **patches file** in `/flexlion3/patches.pchtxt`\
+These patches can be used with [Flexlion](https://gamebanana.com/wips/70362) by placing the **patches** in `/flexlion3/patches.pchtxt`\
 You can also use [IPSwitch](https://github.com/3096/ipswitch).
 
 > [!NOTE]\
