@@ -31,7 +31,7 @@
 021A2668 1F2003D5
 021A266C 1F2003D5
 
-// Infinite Specials SR [Manjirowo desu!!!]
+// Infinite Specials SR [Manjirowo desu!!! & Lumn]
 @enabled
 02842A44 1F2003D5
 
@@ -42,6 +42,15 @@
 // Infinite Specials [Manjirowo desu!!!]
 @enabled
 016B2648 E8031F2A
+
+// God Mode [Lumn]
+@enabled
+0292038C C0035FD6 
+
+
+// Shooter Rapidfire [Lumn]
+@enabled
+029766F0 20008052
 
 
 
