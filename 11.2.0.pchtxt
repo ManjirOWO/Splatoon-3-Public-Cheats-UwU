@@ -22,8 +22,8 @@
 028BDEDC C0035FD6
 0289F00C 1F2003D5
 
-// One shot enemies [Manjirowo desu!!!]
-@enabled
+// One shot enemies (doesn't work on players) [Manjirowo desu!!!]
+@disabled
 021A2658 08008052 
 021A265C E84200B9
 021A2660 1F2003D5
@@ -32,25 +32,29 @@
 021A266C 1F2003D5
 
 // Infinite Specials SR [Manjirowo desu!!! & Lumn]
-@enabled
+@disabled
 02842A44 1F2003D5
 
 // Infinite Eggs In SR [Manjirowo desu!!!]
-@enabled
+@disabled
 037D325C 1F2003D5
 
 // Infinite Specials [Manjirowo desu!!!]
-@enabled
+@disabled
 016B2648 E8031F2A
 
 // God Mode [Lumn]
-@enabled
+@disabled
 0292038C C0035FD6 
 
-
 // Shooter Rapidfire [Lumn]
-@enabled
+@disabled
 029766F0 20008052
+
+// Infinite Clams [Lumn]
+@disabled
+0236B0EC 1F2003D5
+
 
 
 
