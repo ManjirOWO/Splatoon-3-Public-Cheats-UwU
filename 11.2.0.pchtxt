@@ -20,7 +20,6 @@
 // Bomb Rapidfire [Lumn]
 @disabled
 028BDEDC C0035FD6
-0289F00C 1F2003D5
 
 // One shot enemies (doesn't work on players) [Manjirowo desu!!!]
 @disabled
